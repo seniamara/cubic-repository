@@ -1,7 +1,7 @@
 ```markdown
 # Cubic List To Do
 
-Um aplicativo simples de lista de tarefas desenvolvido com **Flutter** e gerenciado pelo **Flutter Bloc**. Ele permite adicionar, visualizar e remover tarefas da lista, demonstrando a implementação básica de gerenciamento de estado usando **Cubit**.
+Um aplicativo simples de lista de tarefas desenvolvido com Flutter e gerenciado pelo Flutter Bloc. Ele permite adicionar, visualizar e remover tarefas da lista, demonstrando a implementação básica de gerenciamento de estado usando Cubit.
 
 ---
 
