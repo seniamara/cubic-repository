@@ -1,4 +1,4 @@
-import 'package:cubic/app/home/home_page.dart';
+import 'package:cubic/app/pages/home/home_page.dart';
 import 'package:flutter/material.dart';
 
 class MyApp extends StatelessWidget {

@@ -1,2 +1,2 @@
-export 'app/home/app_wiget.dart';
+export 'app/pages/home/app_wiget.dart';
 
